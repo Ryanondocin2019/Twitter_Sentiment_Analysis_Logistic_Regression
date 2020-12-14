@@ -8,4 +8,4 @@ flag: The query (lyx). If there is no query, then this value is NO_QUERY.
 user: the user that tweeted (robotickilldozr)
 text: the text of the tweet (Lyx is cool)
 
-The data was vectorized via TF-IDF and modeled using Logisic Regression to asses whether it was positive or negative. The testing ROC AUC was improved from 68% to 88% via L2 Regularization and hyperparameter tuning.
+The data was vectorized via TF-IDF and modeled using Logisic Regression to asses whether it's sentiment either was positive or negative. The testing ROC AUC was improved from 68% to 88% via L2 Regularization and hyperparameter tuning.
