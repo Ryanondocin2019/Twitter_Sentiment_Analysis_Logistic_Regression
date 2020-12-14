@@ -1,5 +1,5 @@
 # Twitter Sentiment Analysis Logistic Regression
-In this project I performed sentiment analysis with PySpark on twitter dataframe consisting of 100,000 tweets. The tweets.csv file contains the following columns:
+In this project I performed sentiment analysis with PySpark on a twitter dataframe consisting of 100,000 tweets. The tweets.csv file contains the following columns:
 
 target: the polarity of the tweet (0 = negative, 4 = positive)
 ids: The id of the tweet ( 2087) 
